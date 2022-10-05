@@ -1,0 +1,40 @@
+body{
+    font-family: 'Shadows Into Light', cursive;
+    background: rgb(99, 165, 0);
+    color: whitesmoke;
+    font-size: 20px;
+}
+.header_div{
+    background: lightgreen;
+    color: green;
+}
+
+.header_div p{
+    color: darkgreen; 
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.main_div button{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: large;
+    letter-spacing: 3px;
+    margin-top: 30px;
+    width: 130px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 30px;
+    font-size: 20px;
+    background: lightgreen;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-shadow: 3px 3px 3px rgb(76, 76, 76);
+}
